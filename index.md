@@ -2,9 +2,9 @@
 
 I’m a video editor who lives in New Orleans.
 
-Below are some videos I've made and worked on in the past:
+Below are some videos I've made in the past:
 
-1. [McCrea 1971 - Louisiana's Forgotten Rock Festival](http://www.mccrea1971.com/) (YouTube / Vimeo)
+1. [McCrea 1971 - Louisiana's Forgotten Rock Festival](http://www.mccrea1971.com/) / [YouTube](https://www.youtube.com/watch?v=hlvMH42r4vg&t=351s) | [YouTube Trailer](https://www.youtube.com/watch?v=ET13u0j9S_A&)
 
 
 
