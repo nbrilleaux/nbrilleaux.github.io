@@ -1,15 +1,12 @@
-## Welcome to GitHub Pages
+## Nick Brilleaux's Website
 
-You can use the [editor on GitHub](https://github.com/nbrilleaux/nbrilleaux.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I’m a video editor who lives in New Orleans.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below are some videos I've made and worked on in the past:
 
-### Markdown
+1. [McCrea 1971 - Louisiana's Forgotten Rock Festival](http://www.mccrea1971.com/) (YouTube / Vimeo)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
