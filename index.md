@@ -11,4 +11,3 @@ Some of my work:
 
 Contact: brilleaux@gmail.com
 
-Have a nice day.
