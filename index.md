@@ -10,5 +10,5 @@ Some of my work:
 3. [Untamed Table: Nutria](https://vimeo.com/149066650) - 2016
 
 
-Contact: brilleaux @ g m a i l .com
+Contact: brilleaux [at] g m a i l [dot] c o m
 
